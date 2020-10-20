@@ -373,7 +373,7 @@ p {
   position: relative;
   height: 20vh;
   text-align: center;
-  background-color: #006994;
+  background-color: #fff;
 }
 /* Animation */
 .parallax>use {
